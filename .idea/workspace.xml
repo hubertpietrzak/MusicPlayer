@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf97973-39c9-403b-b38d-00e0008adf90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/prev.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ControlPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ControlPaneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/mainPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/mainPane.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
         <option value="module-info" />
         <option value="Class" />
         <option value="FxmlFile" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,7 +56,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/hubert/Dokumenty/Repozytoria/HrTasks",
+    "last_opened_file_path": "/home/hubert/Dokumenty/Repozytoria/MusicPlayer/src/main/resources/img",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +66,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/img" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hubertpietrzak.musicPlayer.main.Main" />
@@ -89,7 +101,7 @@
       <updated>1674065911371</updated>
       <workItem from="1674065912703" duration="3612000" />
       <workItem from="1674250680948" duration="1016000" />
-      <workItem from="1674466425340" duration="6745000" />
+      <workItem from="1674466425340" duration="9211000" />
     </task>
     <servers />
   </component>

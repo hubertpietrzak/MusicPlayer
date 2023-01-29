@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Menu?>
-<?import javafx.scene.control.MenuBar?>
-<?import javafx.scene.control.MenuItem?>
-<?import javafx.scene.control.Slider?>
-<?import javafx.scene.control.TableColumn?>
-<?import javafx.scene.control.TableView?>
-<?import javafx.scene.control.ToggleButton?>
-<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.HBox?>
-
 <BorderPane xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="org.hubertpietrzak.musicPlayer.controller.MainController">
     <top>
-        <fx:include source="menuPane.fxml"/>
+        <fx:include source="menuPane.fxml" fx:id="menuPane"/>
     </top>
     <center>
-        <fx:include source="contentPane.fxml"/>
+        <fx:include source="contentPane.fxml" fx:id="contentPane"/>
     </center>
     <bottom>
-        <fx:include source="controlPane.fxml"/>
+        <fx:include source="controlPane.fxml" fx:id="controlPane"/>
     </bottom>
 </BorderPane>

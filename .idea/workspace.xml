@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf97973-39c9-403b-b38d-00e0008adf90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/mp3/Mp3Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/player/Mp3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/mp3/Mp3Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/aboutPane.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ContentPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ContentPaneController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/contentPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/contentPane.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MenuPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MenuPaneController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +20,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="FxmlFile" />
         <option value="CSS File" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -102,7 +99,7 @@
       <updated>1674065911371</updated>
       <workItem from="1674065912703" duration="3612000" />
       <workItem from="1674250680948" duration="1016000" />
-      <workItem from="1674466425340" duration="11932000" />
+      <workItem from="1674466425340" duration="12920000" />
     </task>
     <servers />
   </component>

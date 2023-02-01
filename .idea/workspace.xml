@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf97973-39c9-403b-b38d-00e0008adf90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/mp3/Mp3Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/aboutPane.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ControlPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/ControlPaneController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MenuPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hubertpietrzak/musicPlayer/controller/MenuPaneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/contentPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/contentPane.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +20,8 @@
       <list>
         <option value="module-info" />
         <option value="CSS File" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,7 +68,33 @@
       <recent name="$PROJECT_DIR$/src/main/resources/img" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BigNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hubertpietrzak.musicPlayer.controller.BigNumbers" />
+      <module name="MusicPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hubertpietrzak.musicPlayer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hubertpietrzak.musicPlayer.controller.Loops" />
+      <module name="MusicPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hubertpietrzak.musicPlayer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hubertpietrzak.musicPlayer.main.Main" />
       <module name="MusicPlayer" />
@@ -83,8 +108,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hubertpietrzak.musicPlayer.controller.Test" />
+      <module name="MusicPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hubertpietrzak.musicPlayer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BigNumbers" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -99,7 +140,7 @@
       <updated>1674065911371</updated>
       <workItem from="1674065912703" duration="3612000" />
       <workItem from="1674250680948" duration="1016000" />
-      <workItem from="1674466425340" duration="12920000" />
+      <workItem from="1674466425340" duration="15606000" />
     </task>
     <servers />
   </component>
